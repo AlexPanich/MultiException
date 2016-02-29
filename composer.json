@@ -3,5 +3,8 @@
     "description": "Test package for pr-of-it.ru",
     "require": {
         "php": ">=5.6.0"
+    },
+    "autoload": {
+        "classmap": ["MultiException.php", "TCollection.php"]
     }
 }
