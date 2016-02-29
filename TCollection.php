@@ -1,8 +1,6 @@
 <?php
 
 
-namespace AlexPanich;
-
 
 trait TCollection
 {
