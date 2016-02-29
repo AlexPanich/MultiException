@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App;
+namespace AlexPanich;
 
 
 class MultiException extends \Exception implements \ArrayAccess, \Iterator
