@@ -1,6 +1,6 @@
 <?php
 
-
+namespace AlexPanich\MultiException;
 
 trait TCollection
 {
